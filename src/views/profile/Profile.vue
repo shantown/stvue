@@ -1,5 +1,5 @@
 <template>
-$END$
+222
 </template>
 
 <script>
